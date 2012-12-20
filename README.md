@@ -12,7 +12,7 @@ Used for explain PHP puzzles
 
 ###相关tips
 
-- Issue中可以贴包含代码, PHP代码的输入格式为 ```php (3个反斜线+语言名)
+- Issue中可以贴包含代码, PHP代码的输入格式为 ```php (3个back quote+语言名), 关闭的时候用``` .
 
   比如:
 ```
@@ -20,7 +20,7 @@ Used for explain PHP puzzles
   <?php
     这里输入PHP代码
   ?>
- ```
+ \``` //关闭, 不过我不知道怎么转义.... 所以忽略开后的\
 ```
 
 
